@@ -1,7 +1,7 @@
 # Hi there, I'm Anil Prajapati 👋
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&vCenter=true&width=550&lines=Full-Stack+Software+Engineer;Cloud+Architect+%7C+AWS+Specialist;React+19+%7C+FastAPI+%7C+Node.js;Enterprise+Cloud-Native+Platforms" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&vCenter=true&width=550&lines=Welcome to my repo hub;Cloud+Architect+%7C+AWS+Specialist;React+19+%7C+FastAPI+%7C+Node.js;Enterprise+Cloud-Native+Platforms" alt="Typing SVG" />
 </p>
 
 I'm a passionate **Quality Assurance** and **Cloud Solutions Architect** focused on architecting resilient, production-ready distributed platforms, real-time telemetry systems, and modern web applications.
